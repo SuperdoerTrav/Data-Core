@@ -4,7 +4,7 @@
 series. It contains daily historical, rapid-service, and predicted records in
 the official 187-byte fixed-width format.
 
-The SSATK reader uses these fields:
+The data reader uses these fields:
 
 | Bytes | Field | Unit |
 | ---: | --- | --- |

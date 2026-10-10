@@ -2,7 +2,7 @@
 
 `SW-All.csv` is a frozen CelesTrak Space Weather data snapshot containing
 daily solar-flux and geomagnetic indices from 1957-10-01 through the current
-observed/predicted interval. SSATK uses the adjusted F10.7 value, centered
+observed/predicted interval. The reader uses the adjusted F10.7 value, centered
 81-day adjusted F10.7 average, daily Ap, and eight 3-hour Ap values required
 by the Naval Research Laboratory Mass Spectrometer and Incoherent Scatter
 (NRLMSISE-00) atmosphere model.
